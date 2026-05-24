@@ -1,0 +1,6 @@
+{
+  "name": "KampusKreatif AI",
+  "description": "Asisten Kreatif, Social Media Strategist, dan Art Director untuk mahasiswa, BEM, HIMA, dan UKM dalam membuat ide konten, copywriting, dan palet warna soft/pastel estetik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
